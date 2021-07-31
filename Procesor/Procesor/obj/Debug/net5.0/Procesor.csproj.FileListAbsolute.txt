@@ -1,0 +1,16 @@
+E:\Visual Studio\Procesor\Procesor\Procesor\bin\Debug\net5.0\Procesor.exe
+E:\Visual Studio\Procesor\Procesor\Procesor\bin\Debug\net5.0\Procesor.deps.json
+E:\Visual Studio\Procesor\Procesor\Procesor\bin\Debug\net5.0\Procesor.runtimeconfig.json
+E:\Visual Studio\Procesor\Procesor\Procesor\bin\Debug\net5.0\Procesor.runtimeconfig.dev.json
+E:\Visual Studio\Procesor\Procesor\Procesor\bin\Debug\net5.0\Procesor.dll
+E:\Visual Studio\Procesor\Procesor\Procesor\bin\Debug\net5.0\ref\Procesor.dll
+E:\Visual Studio\Procesor\Procesor\Procesor\bin\Debug\net5.0\Procesor.pdb
+E:\Visual Studio\Procesor\Procesor\Procesor\obj\Debug\net5.0\Procesor.csprojAssemblyReference.cache
+E:\Visual Studio\Procesor\Procesor\Procesor\obj\Debug\net5.0\Procesor.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio\Procesor\Procesor\Procesor\obj\Debug\net5.0\Procesor.AssemblyInfoInputs.cache
+E:\Visual Studio\Procesor\Procesor\Procesor\obj\Debug\net5.0\Procesor.AssemblyInfo.cs
+E:\Visual Studio\Procesor\Procesor\Procesor\obj\Debug\net5.0\Procesor.csproj.CoreCompileInputs.cache
+E:\Visual Studio\Procesor\Procesor\Procesor\obj\Debug\net5.0\Procesor.dll
+E:\Visual Studio\Procesor\Procesor\Procesor\obj\Debug\net5.0\ref\Procesor.dll
+E:\Visual Studio\Procesor\Procesor\Procesor\obj\Debug\net5.0\Procesor.pdb
+E:\Visual Studio\Procesor\Procesor\Procesor\obj\Debug\net5.0\Procesor.genruntimeconfig.cache
